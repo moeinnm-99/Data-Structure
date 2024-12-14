@@ -8,6 +8,7 @@
 
 
 <br> <br> <br>
+## 📈 GitHub Stats 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=moeinnm-99)](https://github.com/moeinnm-99)
 
@@ -15,21 +16,27 @@
 
 <br> <br>
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <br>
-<a href="https://instagram.com/moeinnm_99"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Moeinnm-99 | Instagram" width="35px"/></a>
+<a href="https://www.linkedin.com/in/moein-nouri-62803731a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Moeinnm-99 | LinkedIn" width="40px"/></a>
+
+<a href="https://instagram.com/moeinnm_99"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Moeinnm-99 | Instagram" width="40px"/></a>
 
 <br> <br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+<br>
+
+## 🔭 I'm currently working on:
 
 - My old projects
 - Machine Learning Project That I Will Upload 
 - NLP And Opencv Projects (Image processing)
 
-## 🌱 I'm currently learning
+<br>
+
+## 🌱 I'm currently learning:
 
 - Sql
 - Database
