@@ -40,4 +40,6 @@
 
 - Sql
 - Database
-- AI 
+- AI
+- Tensorflow
+- Deep Learning
