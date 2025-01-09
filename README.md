@@ -10,7 +10,7 @@
 
 
 <br> <br> <br>
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=moeinnm-99)](https://github.com/moeinnm-99)
 
